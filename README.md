@@ -1,4 +1,5 @@
 ## AWS for Fluent Bit Docker Image
+Demonstration of 1 way sync.
 
 ### Public Images
 
